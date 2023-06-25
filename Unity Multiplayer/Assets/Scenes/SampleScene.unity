@@ -434,7 +434,7 @@ MonoBehaviour:
   m_Intensity: 1
   m_LightVolumeIntensity: 1
   m_LightVolumeIntensityEnabled: 0
-  m_ApplyToSortingLayers: 00000000
+  m_ApplyToSortingLayers: 00000000d387fce3
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
@@ -754,7 +754,7 @@ MonoBehaviour:
   NetworkConfig:
     ProtocolVersion: 0
     NetworkTransport: {fileID: 1828760149}
-    PlayerPrefab: {fileID: 6456536275392085456, guid: dafddf54bd11cfa49883ca14e554335f, type: 3}
+    PlayerPrefab: {fileID: 619126535816187358, guid: dafddf54bd11cfa49883ca14e554335f, type: 3}
     Prefabs:
       NetworkPrefabsLists: []
     TickRate: 30

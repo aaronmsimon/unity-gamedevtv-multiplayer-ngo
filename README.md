@@ -29,7 +29,7 @@ by [GameDev.tv](https://www.gamedev.tv)
 ### Introduction & Setup
 - Set Up Unity & VS Code (10:08)
 - Networking Basics (8:26)
-- Installation & Setup (15:37)
+- [Installation & Setup (15:37)](https://github.com/aaronmsimon/unity-gamedevtv-multiplayer-ngo/commit/64a5e376606566aa39b280cde7e8c7b746186842)
 - Community & Support (1:33)
 - Access Our Projects (4:38)
 
