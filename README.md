@@ -35,7 +35,7 @@ by [GameDev.tv](https://www.gamedev.tv)
 
 ### Core Gameplay
 - [Importing Assets (10:14)](https://github.com/aaronmsimon/unity-gamedevtv-multiplayer-ngo/commit/89c341ab6cd443f0f880508731c9cbb59934ad0a)
-- Reading Input (19:47)
+- [Reading Input (19:47)](https://github.com/aaronmsimon/unity-gamedevtv-multiplayer-ngo/commit/b8875ad9bd9f552d114467894928ce13d09481e2)
 - Networking Authority (17:55)
 - Player Movement (18:53)
 - Player Aiming (10:04)
