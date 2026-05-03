@@ -24,7 +24,7 @@ by [GameDev.tv](https://www.gamedev.tv)
 </table>
 
 ## Instructor
-<img src="https://www.filepicker.io/api/file/Hv1jBXm9RGnigJ2RvvsB" width="15%" />
+<img src="https://gamedev.tv/_next/image?url=https%3A%2F%2Fgamedev-files.b-cdn.net%2Finstructors%2Ftneoswarib71.png&w=256&q=75" width="15%" />
 <h4>Nathan Farrer</h4>
 
 ## Curriculum
