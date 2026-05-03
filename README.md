@@ -1,23 +1,25 @@
 [Unity Multiplayer Using Netcode (NGO)](https://www.gamedev.tv/p/unity-multiplayer-netcode)
 by [GameDev.tv](https://www.gamedev.tv)
 
-![Unity Multiplayer Using Netcode (NGO)](https://www.filepicker.io/api/file/rsoHaRZTymnUSNk4iG0P)
+![Unity Multiplayer Using Netcode (NGO)](https://gamedev.tv/_next/image?url=https%3A%2F%2Fgamedev-files.b-cdn.net%2Fcourses%2Fzmumb3iyeqg5.jpg&w=2048&q=75)
 
 
 ## Images
 <table>
     <tr>
-        <td><img src="https://www.filepicker.io/api/file/qpcPLDAWTzamrjmCUPlq" /></td>
-        <td><img src="https://www.filepicker.io/api/file/wzpsDN4TO9cvrGjQdO2Q" /></td>
-        <td><img src="https://www.filepicker.io/api/file/SYlrUTBhSUy6ZhhycX3r" /></td>
-        <td><img src="https://www.filepicker.io/api/file/Y390TMFIR52x3TH4GUom" /></td>
+        <td><img src="https://gamedev.tv/_next/image?url=https%3A%2F%2Fgamedev-files.b-cdn.net%2Fsale-data%2Fuy9ffceigrva.jpg&w=640&q=75" /></td>
+        <td><img src="https://gamedev.tv/_next/image?url=https%3A%2F%2Fgamedev-files.b-cdn.net%2Fsale-data%2Ffxeam2lkaqai.jpg&w=640&q=75" /></td>
+		<td><img src="https://gamedev.tv/_next/image?url=https%3A%2F%2Fgamedev-files.b-cdn.net%2Fsale-data%2Fkqpbm7ziasbt.jpg&w=640&q=75" /></td>
+		<td><img src="https://gamedev.tv/_next/image?url=https%3A%2F%2Fgamedev-files.b-cdn.net%2Fsale-data%2Fdw7hlrkmcnkl.jpg&w=640&q=75" /></td>
+		<td><img src="https://gamedev.tv/_next/image?url=https%3A%2F%2Fgamedev-files.b-cdn.net%2Fsale-data%2Fyp0nnmlo9u3s.jpg&w=640&q=75" /></td>
+		<td><img src="https://gamedev.tv/_next/image?url=https%3A%2F%2Fgamedev-files.b-cdn.net%2Fsale-data%2Fknf598lwnwzf.jpg&w=640&q=75" /></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <td><img src="https://www.filepicker.io/api/file/w1HEYBuaRemYLZ7S7wPw" /></td>
-        <td><img src="https://www.filepicker.io/api/file/UWQrcSrJRLubfCCF1wGI" /></td>
+        <td><img src="https://gamedev.tv/_next/image?url=https%3A%2F%2Fgamedev-files.b-cdn.net%2Fsupport-imaginery%2Ftvvxadocz52j.gif&w=1920&q=75" /></td>
+        <td><img src="https://gamedev.tv/_next/image?url=https%3A%2F%2Fgamedev-files.b-cdn.net%2Fsupport-imaginery%2Fqw9qyr6hlapz.gif&w=1920&q=75" /></td>
     </tr>
 </table>
 
@@ -36,7 +38,7 @@ by [GameDev.tv](https://www.gamedev.tv)
 ### Core Gameplay
 - [Importing Assets (10:14)](https://github.com/aaronmsimon/unity-gamedevtv-multiplayer-ngo/commit/89c341ab6cd443f0f880508731c9cbb59934ad0a)
 - [Reading Input (19:47)](https://github.com/aaronmsimon/unity-gamedevtv-multiplayer-ngo/commit/b8875ad9bd9f552d114467894928ce13d09481e2)
-- Networking Authority (17:55)
+- [Networking Authority (17:55)](https://github.com/aaronmsimon/unity-gamedevtv-multiplayer-ngo/commit/36cf6c271154c169fbbbe5b14c73e18bee62a449)
 - Player Movement (18:53)
 - Player Aiming (10:04)
 - Networked Projectiles (14:06)
